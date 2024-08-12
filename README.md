@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, create a .env file. Create Gemini API key, three AWS S3 buckets, Mongo DB database and a Google Text to Speech credentials. Then add the following keys to the .env file:
@@ -29,6 +27,8 @@ First, create a .env file. Create Gemini API key, three AWS S3 buckets, Mongo DB
 -NEXT_PUBLIC_AWS_S3_COVER_IMAGE_BUCKET_NAME= AWS S3 bucket for storing story images
 
 -NEXT_PUBLIC_AWS_S3_REGION= AWS region
+
+-OPENAI_API_KEY= your Open AI key for image generation (I'd love to use Gemini's image generation capabilities but it's not currently available to the public)
 
 -NEXT_PUBLIC_BASE_URL=http://localhost:3000/
 
