@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, create a .env file. Create Gemini API key, three AWS S3 buckets, Mongo DB database and a Google Text to Speech credentials. Then add the following keys to the .env file:
+
 -GOOGLE_ID=<your google ID>
 -GOOGLE_SECRET=<your google secret for OAuth>
 -NEXTAUTH_SECRET=<NextAUTH secret>
