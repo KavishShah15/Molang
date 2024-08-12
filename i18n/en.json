@@ -1,0 +1,13 @@
+{
+  "select_language_to_learn": "Step 2: Select a Language to Learn",
+  "continue": "Continue",
+  "select_level": "Step 3: Select Your Proficiency Level",
+  "languages": {
+    "en": "English",
+    "vi": "Vietnamese",
+    "zh": "Chinese",
+    "hi": "Hindi",
+    "es": "Spanish",
+    "fr": "French"
+  }
+}
